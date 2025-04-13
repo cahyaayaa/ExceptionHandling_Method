@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package modul2;
+import java.awt.HeadlessException;
 import java.util.Scanner;
 /**
  *
