@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package modul2;
-
+import java.awt.HeadlessException;
 import javax.swing.JOptionPane;
 
 /**
